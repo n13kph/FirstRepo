@@ -13,3 +13,15 @@ int main() //The main is usually where the program starts
 
 
 }
+
+
+/*
+
+git add (filename)
+git commit -m (comment or reason for commiting)
+git push origin master            <--- no idea why it is origin master
+
+
+gitk         <---- this allows you to see the changes made to the file
+
+*/
